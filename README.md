@@ -1,6 +1,13 @@
 Olá, meu nome é Luís Plinio! 
 
-Sou um Designer e Desenvolvedor apaixonado por unir criatividade e lógica para proporcionar experiências únicas e eficientes para os usuários. Possuo experiência como professor de Matemática e Designer de Marketing Digital, e encontrei minha verdadeira paixão na área de tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e continuo aprimorando minhas habilidades em programação, principalmente em JavaScript e Desenvolvimento Full Stack. Pretendo continuar meus estudos com React, Next.js, Node.js e React Native, ou para a linguagem ou Framework que o mercado demandar. Tenho muita vontade de aprender e crescer nessa área, e estou disposto a dar o meu melhor e aprender o que for necessário.
+Sou Designer e Desenvolvedor Front-end com ampla experiência em Design para Marketing Digital. Sou formado em Matemática e estou cursando Análise e Desenvolvimento de Sistemas.
+Minhas especialidades incluem: HTML, CSS, JavaScript, TypeScript, React.js, Git/GitHub e Banco de Dados. Desenvolvi alguns projetos e aplicações que podem ser vistos no meu repositório no GitHub.
+Continuo fazendo novos cursos e projetos práticos para sempre aprimorar e atualizar minhas habilidades em programação.
+Possuo experiência em docência e nesse período adquiri habilidades como: resiliência, adaptabilidade, comunicação, proatividade, capacidade de aprendizado contínuo, empatia, planejamento e organização.
+
+Contato:
+WhatsApp: (44) 98418-8917
+E-mail: lpcampanholi@gmail.com
 
 <!---
 lpcampanholi/lpcampanholi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
