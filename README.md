@@ -10,6 +10,8 @@ Olá, meu nome é Luís Plinio!
 <p>WhatsApp: (44) 98418-8917</p>
 <p>E-mail: lpcampanholi@gmail.com</p>
 
+<h2>Currículo</h2>
+<p>Acesse aqui meu <a href="https://lpcampanholi.github.io/meu-curriculo/">Currículo</a></p>
 
 <!---
 lpcampanholi/lpcampanholi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
