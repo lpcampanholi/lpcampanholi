@@ -14,7 +14,7 @@ Olá, meu nome é Luís Plinio!
 <p>Acesse aqui meu <a href="https://lpcampanholi.github.io/meu-curriculo/">Currículo</a></p>
 
 <h2>Portfólio de Design</h2>
-<p>Acesse aqui meu <a href="Portfólio de Design: https://drive.google.com/file/d/1DhYXBNLFBwCiymLD_BDWPIti59Ol_-R5/view?usp=sharing">Portfólio</a>de Design e Edição de Vídeo.</p>
+<p>Acesse aqui meu <a href="https://drive.google.com/file/d/1DhYXBNLFBwCiymLD_BDWPIti59Ol_-R5/view?usp=sharing">Portfólio</a> de Design e Edição de Vídeo.</p>
 
 <!---
 lpcampanholi/lpcampanholi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
