@@ -3,7 +3,7 @@
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5544984188917)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-f1493c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lpcampanholi@gmail.com)
 
-Hello, I am a Designer and Front-end Developer from Brazil with extensive experience in Graphic Design, Video Editing, and Digital Marketing. I have a degree in Mathematics and I am currently pursuing a degree in Systems Analysis and Development.
+Hello, I am a Designer and Frontend Developer from Brazil with extensive experience in Graphic Design, Video Editing, and Digital Marketing. I have a degree in Mathematics and I am currently pursuing a degree in Systems Analysis and Development.
 
 I have developed several projects and applications that can be viewed in my repository here on GitHub and I continue to take new courses and engage in practical projects to consistently enhance and update my programming skills.
 
