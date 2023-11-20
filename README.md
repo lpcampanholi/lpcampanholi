@@ -29,8 +29,8 @@ I have experience in teaching and during this period, I have acquired skills suc
 [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-212121?style=for-the-badge&logo=postgresql&logoColor=376695)](#)
 
 ## 📃 Resume & Portfolio
-[![Resume Badge](https://img.shields.io/badge/-Resume-212121?style=for-the-badge)](https://lpcampanholi.github.io/meu-curriculo/)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-212121?style=for-the-badge)](https://drive.google.com/file/d/1DhYXBNLFBwCiymLD_BDWPIti59Ol_-R5/view?usp=sharing)
+[![Resume Badge](https://img.shields.io/badge/-Resume-212121?style=for-the-badge)](https://lpcampanholi.github.io/meu-curriculo-estilizado/index.html)
+[![Portfolio Badge](https://img.shields.io/badge/-Design_Portfolio-212121?style=for-the-badge)](https://drive.google.com/file/d/1DhYXBNLFBwCiymLD_BDWPIti59Ol_-R5/view?usp=sharing)
 
 <!---
 lpcampanholi/lpcampanholi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
