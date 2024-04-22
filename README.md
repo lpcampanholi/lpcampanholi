@@ -1,6 +1,5 @@
 ## 👋 Hello, my name is Luís Plinio!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0075b4?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lu%C3%ADs-campanholi/)
-[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lpcampanholi/)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5544984188917)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-f1493c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lpcampanholi@gmail.com)
 
