@@ -16,7 +16,7 @@ I have experience in teaching and during this period, I have acquired skills suc
 </div>
 
 ## 💻 Technologies & Tools
-[HTML Badge](https://img.shields.io/badge/-HTML-212121?style=for-the-badge&logo=html5&logoColor=e4552d)]
+![HTML Badge](https://img.shields.io/badge/-HTML-212121?style=for-the-badge&logo=html5&logoColor=e4552d)
 [![CSS Badge](https://img.shields.io/badge/-CSS-212121?style=for-the-badge&logo=css3&logoColor=1c76b8)](#)
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-212121?style=for-the-badge&logo=javascript&logoColor=fbe123)](#)
 [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-212121?style=for-the-badge&logo=typescript&logoColor=377cc8)](#)
