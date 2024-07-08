@@ -3,11 +3,13 @@
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5544984188917)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-f1493c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lpcampanholi@gmail.com)
 
-Hello, I am a Designer and  Developer from Brazil with extensive experience in Graphic Design, Video Editing, and Digital Marketing. I have a degree in Mathematics and I am currently pursuing a degree in Systems Analysis and Development.
+Hello, I am a Full Stack Web Developer with extensive experience in Graphic Design, Video Editing, and Digital Marketing. I hold a degree in Mathematics and am currently pursuing a degree in Systems Analysis and Development.
 
-I have developed several projects and applications that can be viewed in my repository here on GitHub and I continue to take new courses and engage in practical projects to consistently enhance and update my programming skills.
+My skills include: HTML, CSS, JavaScript, TypeScript, React, Node.JS, MySQL, MongoDB, Git/GitHub, Data Modeling, and SQL. I have developed several projects and applications that can be viewed here in my GitHub repository.
 
-I have experience in teaching and during this period, I have acquired skills such as resilience, adaptability, communication, proactivity, continuous learning ability, empathy, planning, and organization.
+I am continuously taking new courses and practical projects to always improve and update my programming skills.
+
+I have experience in teaching and marketing. During this period, I acquired skills such as resilience, adaptability, communication, proactivity, continuous learning ability, empathy, planning, organization, and teamwork.
 
 ## ⚡ GitHub Stats
 <div>
