@@ -22,16 +22,16 @@ I have experience in teaching and marketing. During this period, I acquired skil
 [![CSS Badge](https://img.shields.io/badge/-CSS-212121?style=for-the-badge&logo=css3&logoColor=1c76b8)](#)
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-212121?style=for-the-badge&logo=javascript&logoColor=fbe123)](#)
 [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-212121?style=for-the-badge&logo=typescript&logoColor=377cc8)](#)
+[![Node Badge](https://img.shields.io/badge/-Node.js-212121?style=for-the-badge&logo=node.js&logoColor=339933)](#)
+[![Java Badge](https://img.shields.io/badge/-Java-212121?style=for-the-badge&logo=openjdk&logoColor=007396)](#)
 [![Git Badge](https://img.shields.io/badge/-Git-212121?style=for-the-badge&logo=git&logoColor=f05539)](#)
 [![React Badge](https://img.shields.io/badge/-React-212121?style=for-the-badge&logo=react&logoColor=08d9ff)](#)
-[![NodeJS Badge](https://img.shields.io/badge/-Node.JS-212121?style=for-the-badge&logo=node.js&logoColor=84bf47)](#)
-[![Linux Badge](https://img.shields.io/badge/-Linux-212121?style=for-the-badge&logo=ubuntu&logoColor=ea5516)](#)
+[![Harbour Badge](https://img.shields.io/badge/-Harbour-212121?style=for-the-badge&logo=gnu&logoColor=FADA5E)](#)
 [![Delphi Badge](https://img.shields.io/badge/-Delphi-212121?style=for-the-badge&logo=delphi&logoColor=f32e3b)](#)
 [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-212121?style=for-the-badge&logo=postgresql&logoColor=376695)](#)
 
-## 📃 Resume & Portfolio
-[![Resume Badge](https://img.shields.io/badge/-Resume-212121?style=for-the-badge)](https://lpcampanholi.github.io/meu-curriculo-estilizado/index.html)
-[![Portfolio Badge](https://img.shields.io/badge/-Design_Portfolio-212121?style=for-the-badge)](https://drive.google.com/file/d/1DhYXBNLFBwCiymLD_BDWPIti59Ol_-R5/view?usp=sharing)
+## 📃 Resume
+[![Resume Badge]([https://img.shields.io/badge/-Resume-212121?style=for-the-badge)](https://lpcampanholi.github.io/meu-curriculo-estilizado/index.html](https://lpcampanholi.github.io/meu-curriculo-impresso/)
 
 <!---
 lpcampanholi/lpcampanholi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
