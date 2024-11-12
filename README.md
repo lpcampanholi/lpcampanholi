@@ -3,13 +3,7 @@
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5544984188917)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-f1493c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lpcampanholi@gmail.com)
 
-Hello, I am a Full Stack Web Developer with extensive experience in Graphic Design, Video Editing, and Digital Marketing. I hold a degree in Mathematics and am currently pursuing a degree in Systems Analysis and Development.
-
-My skills include: HTML, CSS, JavaScript, TypeScript, React, Node.JS, MySQL, MongoDB, Git/GitHub, Data Modeling, and SQL. I have developed several projects and applications that can be viewed here in my GitHub repository.
-
-I am continuously taking new courses and practical projects to always improve and update my programming skills.
-
-I have experience in teaching and marketing. During this period, I acquired skills such as resilience, adaptability, communication, proactivity, continuous learning ability, empathy, planning, organization, and teamwork.
+Hello! My name is Luis Plinio, but you can call me LP, and I'd like to present myself. I live in Maringá, Brazil. I have a degree in Mathematics and am currently working as a graphic designer. In this role, I create social media visuals for a software company's marketing team. I've been studying software development for a year and a half and am now seeking my first job as a developer. My main skills include: HTML, CSS, JavaScript, TypeScript, React, Node, and Java, as well as Git, GitHub, SQL, and database management systems like MySQL, PostgreSQL, and NoSQL, such as MongoDB. I'm also skilled in data analysis and use Power BI. I have a passion for code, music, and retro games. I'm a professional musician and give piano lessons. In my free time, I play the French horn in an orchestra called OFUC, a musical group from a university here in Maringá. Thanks for your attention!
 
 ## ⚡ GitHub Stats
 <div>
