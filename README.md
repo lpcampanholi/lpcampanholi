@@ -25,7 +25,7 @@ Hello! My name is Luis Plinio, but you can call me LP, and I'd like to present m
 [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-212121?style=for-the-badge&logo=postgresql&logoColor=376695)](#)
 
 ## 📃 Resume
-[![Resume Badge](https://img.shields.io/badge/-Resume-212121?style=for-the-badge)](https://lpcampanholi.github.io/meu-curriculo-impresso/)]
+[![Resume Badge](https://img.shields.io/badge/-Resume-212121?style=for-the-badge)](https://lpcampanholi.github.io/meu-curriculo-impresso/)
 
 <!---
 lpcampanholi/lpcampanholi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
