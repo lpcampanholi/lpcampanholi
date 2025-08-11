@@ -3,12 +3,28 @@
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5544984188917)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-f1493c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lpcampanholi@gmail.com)
 
-Hello! My name is Luis Plinio, but you can call me LP, and I'd like to present myself. I live in Maringá, Brazil. I have a degree in Mathematics and am currently working as a graphic designer. In this role, I create social media visuals for a software company's marketing team. I've been studying software development for a year and a half and am now seeking my first job as a developer. My main skills include: HTML, CSS, JavaScript, TypeScript, React, Node, and Java, as well as Git, GitHub, SQL, and database management systems like MySQL, PostgreSQL, and NoSQL, such as MongoDB. I'm also skilled in data analysis and use Power BI. I have a passion for code, music, and retro games. I'm a professional musician and give piano lessons. In my free time, I play the French horn in an orchestra called OFUC, a musical group from a university here in Maringá. Thanks for your attention!
+"Luís Plinio é daqueles profissionais raros, que supera a expectativa do cliente com suas entregas. Admirável por capturar o desejo do cliente, transformado esse desejo em realidade e sempre conseguindo superar! Somos gratos pelo FM ter encontrado esse profissional diferenciado, que faz verdadeiras obras com sua capacidade e profissionalismo."
+Adriana Eliza Federiche Mincache - Federiche Mincache Advogados
+
+"O Luís mostrou uma capacidade impressionante de aprender rapidamente, adaptando-se a novos desafios e responsabilidades com facilidade e confiança. Isso não só permitiu que ele se destacasse em suas tarefas, mas também contribuiu significativamente para a eficiêcia da equipe que ele fazia parte. O Luis possui habilidades instintivas. Possui atenção aos detalhes, criatividade e principalmente, domínio das ferramentas."
+Bruno Santana - Tríade Digital
+
+Inicei minha carreira como desenvolvedor de software alcançando o primeiro lugar no Projeto Trainee da SG Sistemas 2024. Atualmente trabalho na Equipe Web, que cuida de diversos produtos em diversas tecnologias, principalmente React, Angular e Java. Sou responsável por um aplicativo chamado Mobi Pocket, que ajuda o ERP principal na gestão de supermercados e lojas. Está em react Native, com um banco de dados relacional, TypeORM, comunicação com APIs externas, diversas entradas de dados com validações.
+
+Minhas especialidades técnicas: HTML, CSS, JavaScript, TypeScript, React, Next, Angular, Java, Node, Nest, Express, Tailwind, MySQL, MongoDB, Git/GitHub, Modelagem de dados, análise de Dados, Power BI, SQL e Adobe Creative Suite.
+
+Venho de uma trajetória profissional como Designer Gráfico e Professor de Matemática. Como designer, criei centenas de trabalhos publicitários, como posts para redes sociais, logotipos, identidades visuais e ainda faço trabalhos freelance, que podem ser conferidos no meu portfólio de design.
+
+Além disso, sou músico profissional. Dou aulas de teclado e toco trompa na Orquestra Filarmônica Unicesumar (OFUC) e na Âmbar Orquestra. Também atuei durante muitos anos como voluntário no Mosteiro Arautos do Evangelho. Essas vivências me proporcionaram habilidades sociais refinadas, comunicação eficaz, capacidade de resolução de problemas, uma constante busca por aprendizado, dedicação e colaboração com a equipe e os projetos que participo.
+
+Estou à disposição, obrigado!
+
+📞 WhatsApp: (44) 98418-8917
+✉️ E-mail: lpcampanholi@gmail.com
 
 ## ⚡ GitHub Stats
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpcampanholi&layout=compact&hide_border=true&theme=tokyonight">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lpcampanholi&show_icons=true&hide_border=true&theme=tokyonight">
 </div>
 
 ## 💻 Technologies & Tools
