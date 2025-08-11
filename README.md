@@ -4,10 +4,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-f1493c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lpcampanholi@gmail.com)
 
 "Luís Plinio é daqueles profissionais raros, que supera a expectativa do cliente com suas entregas. Admirável por capturar o desejo do cliente, transformado esse desejo em realidade e sempre conseguindo superar! Somos gratos pelo FM ter encontrado esse profissional diferenciado, que faz verdadeiras obras com sua capacidade e profissionalismo."
-  Adriana Eliza Federiche Mincache - CEO Federiche Mincache Advogados
+
+Adriana Eliza Federiche Mincache - CEO Federiche Mincache Advogados
 
 "O Luís mostrou uma capacidade impressionante de aprender rapidamente, adaptando-se a novos desafios e responsabilidades com facilidade e confiança. Isso não só permitiu que ele se destacasse em suas tarefas, mas também contribuiu significativamente para a eficiêcia da equipe que ele fazia parte. O Luis possui habilidades instintivas. Possui atenção aos detalhes, criatividade e principalmente, domínio das ferramentas."
-  Bruno Santana - CEO Tríade Digital
+
+Bruno Santana - CEO Tríade Digital
 
 Inicei minha carreira como desenvolvedor de software alcançando o primeiro lugar no Projeto Trainee da SG Sistemas 2024. Atualmente trabalho na Equipe Web, que cuida de diversos produtos em diversas tecnologias, principalmente React, Angular e Java. Sou responsável por um aplicativo chamado Mobi Pocket, que ajuda o ERP principal na gestão de supermercados e lojas. Está em react Native, com um banco de dados relacional, TypeORM, comunicação com APIs externas, diversas entradas de dados com validações.
 
@@ -20,6 +22,7 @@ Além disso, sou músico profissional. Dou aulas de teclado e toco trompa na Orq
 Estou à disposição, obrigado!
 
 📞 WhatsApp: (44) 98418-8917
+
 ✉️ E-mail: lpcampanholi@gmail.com
 
 ## ⚡ GitHub Stats
