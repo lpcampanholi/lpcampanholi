@@ -27,7 +27,7 @@ Estou à disposição, obrigado!
 
 ## ⚡ GitHub Stats
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpcampanholi&layout=compact&hide_border=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpcampanholi&layout=compact&hide_border=true&theme=tokyonight">
 </div>
 
 ## 💻 Technologies & Tools
@@ -41,10 +41,10 @@ Estou à disposição, obrigado!
 [![React Badge](https://img.shields.io/badge/-React-212121?style=for-the-badge&logo=react&logoColor=08d9ff)](#)
 [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-212121?style=for-the-badge&logo=postgresql&logoColor=376695)](#)
 
+<!---
 ## 📃 Resume
 [![Resume Badge](https://img.shields.io/badge/-Resume-212121?style=for-the-badge)](https://lpcampanholi.github.io/meu-curriculo-impresso/)
 
-<!---
 lpcampanholi/lpcampanholi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
