@@ -39,8 +39,6 @@ Estou à disposição, obrigado!
 [![Java Badge](https://img.shields.io/badge/-Java-212121?style=for-the-badge&logo=openjdk&logoColor=007396)](#)
 [![Git Badge](https://img.shields.io/badge/-Git-212121?style=for-the-badge&logo=git&logoColor=f05539)](#)
 [![React Badge](https://img.shields.io/badge/-React-212121?style=for-the-badge&logo=react&logoColor=08d9ff)](#)
-[![Harbour Badge](https://img.shields.io/badge/-Harbour-212121?style=for-the-badge&logo=gnu&logoColor=FADA5E)](#)
-[![Delphi Badge](https://img.shields.io/badge/-Delphi-212121?style=for-the-badge&logo=delphi&logoColor=f32e3b)](#)
 [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-212121?style=for-the-badge&logo=postgresql&logoColor=376695)](#)
 
 ## 📃 Resume
